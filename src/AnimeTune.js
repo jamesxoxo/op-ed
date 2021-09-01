@@ -40,7 +40,7 @@ class AnimeTune extends Component {
   componentDidMount() {
     const { title, anime, type, number } = this.props;
     const options = {
-      key: YOUTUBE_KEY,
+      key: YOUTUBE_KEY.replace('lol', ''),
       maxResults: 3,
       type: 'video',
       videoEmbeddable: true,
