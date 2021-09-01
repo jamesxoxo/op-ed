@@ -25,7 +25,10 @@ function Home() {
           <source src={webm} type="video/webm" />
         </Video>
       </p>
-      <p>It relies on the MAL API so if that goes down this goes down.</p>
+      <p>
+        It relies on the MAL API so if that goes down this goes down. Sometimes
+        my Youtube API key quota drops to zero too.
+      </p>
     </article>
   );
 }
