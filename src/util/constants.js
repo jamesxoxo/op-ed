@@ -1,2 +1,2 @@
 export const JIKAN_BASE_URL = 'https://api.jikan.moe/v3/';
-export const YOUTUBE_KEY = 'AIzaSyDNS7Q_55JVp_k2lS85S36OIN1WuawqY84';
+export const YOUTUBE_KEY = 'AIzaSyBxVBLUbqfnFLbcSu14qmH11sviQWMW9wY';
